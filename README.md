@@ -1,5 +1,5 @@
 # Website: Ashion
-## Brief Introducion: I created this website for an e-commerce project including Frontend and Backend. This is fashion clothing store, the web demo has functions: login/logout, listing, shopping cart process etc …. and other features of an e-commerce website 
+## Brief Introducion: The website is built for an e-commerce project including Frontend and Backend. This is fashion clothing store, the web demo has functions: login/logout, listing, shopping cart process etc …. and other features of an e-commerce website 
 ### Technologies and tools: 
 1. Languages: HTML, SCSS, Javascript, PHP.
 2. Tools: Laragon, PHP MyAdmin.
